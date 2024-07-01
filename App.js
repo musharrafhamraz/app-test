@@ -4,6 +4,8 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import SplashScreen from './screens/SplashScreen';
 import MusicPlayer from './screens/hello_screen';
 import OfflineClassifierV2 from './screens/OfflinePredV2';
+// "@tensorflow/tfjs": "^4.18.0",
+// "@tensorflow/tfjs-react-native": "^1.0.0",
 
 const Stack = createNativeStackNavigator();
 

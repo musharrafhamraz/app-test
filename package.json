@@ -14,8 +14,6 @@
     "@expo/webpack-config": "^19.0.0",
     "@react-navigation/native": "^6.1.10",
     "@react-navigation/native-stack": "^6.9.18",
-    "@tensorflow/tfjs": "^4.18.0",
-    "@tensorflow/tfjs-react-native": "^1.0.0",
     "axios": "^1.6.8",
     "base64-arraybuffer": "^1.0.2",
     "expo": "~49.0.15",
